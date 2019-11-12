@@ -33,8 +33,11 @@ def adding
                   "whale bone corsets" => 5, 
                   "porcelain vases" => 2, 
                   "oil paintings" => 3,
-                  "muskets"
+                  "muskets" => 2,
+                  "gun powder" => 4
                  }
+                 
+  shipping_manifest
   # add 2 muskets to the shipping_manifest hash below
 
 
